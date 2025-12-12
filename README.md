@@ -1,4 +1,3 @@
-```md
 ## 👋 Hi, I’m Taha Khamis
 
 I’m a **Tech Lead in Machine Learning and Data Engineering** with **6+ years of industry experience**
