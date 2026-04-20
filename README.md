@@ -1,9 +1,9 @@
-## 👋 Hi, I’m Taha Khamis
+## 👋 Hi, I'm Taha Khamis
 
-I’m a **Tech Lead in Machine Learning and Data Engineering** with **6+ years of industry experience**
+I'm a **Senior Data Engineer & ML practitioner** with **6+ years of industry experience**
 and currently a **PhD candidate in Engineering**. I specialize in designing and operating
-**production-grade ML systems**, scalable **data platforms**, and applied AI solutions,
-bridging academic research with real-world engineering.
+**production-grade data pipelines**, scalable **Lakehouse architectures**, and agentic AI systems,
+bridging academic research with real-world engineering impact.
 
 ---
 
@@ -23,11 +23,13 @@ Additional public engineering material will be added progressively.
 
 ## 📚 Research & Publications
 
-I actively publish in peer-reviewed journals, focusing on **AI systems, ML lifecycle, and prosthetics engineering**.
+I actively publish in peer-reviewed journals, focusing on **AI systems, ML lifecycle, prosthetics engineering, and neural networks**.
 
-- *Artificial Intelligence in Medicine* — Automated Transtibial Prosthesis Alignment  
-- *Ionics* — ML in Lithium-Ion Battery State Estimation  
-- *Actuators, IJERPH, AIA Journal*, and others  
+- *Proceedings of the Institution of Mechanical Engineers Part H: Journal of Engineering in Medicine* — Nonlinear Autoregressive Neural Network for Foot Trajectory Generation (2026)
+- *Computer Methods in Biomechanics and Biomedical Engineering* — ANOVA & GRU-based Foot Position Prediction in Powered Prostheses
+- *Artificial Intelligence in Medicine* — Automated Transtibial Prosthesis Alignment: A Systematic Review
+- *Ionics* — A Decade of ML in Lithium-Ion Battery State Estimation
+- *Actuators, IJERPH, AIA Journal*, and others
 
 📎 Full publication list available on request or via Google Scholar.
 
@@ -36,34 +38,39 @@ I actively publish in peer-reviewed journals, focusing on **AI systems, ML lifec
 ## 🛠️ Tech Stack
 
 **Languages**
-- Python, JavaScript, Dart
+- Python, JavaScript/TypeScript, Dart
 
-**ML & Data**
-- PyTorch, TensorFlow, scikit-learn  
-- Pandas, DuckDB, MLflow  
-- Airflow, Qdrant  
+**Data Engineering**
+- Databricks (Delta Lake, Unity Catalog, Genie, MLflow)
+- Airflow, DuckDB, Pandas
+- AWS (S3, Redshift, Glue, EC2, Secrets Manager)
+
+**ML & AI**
+- PyTorch, TensorFlow, scikit-learn
+- LangChain, LangGraph, LiteLLM
+- RAG, embeddings, rerankers, MCP (Model Context Protocol)
+- MLflow (experiment tracking, tracing, model registry)
 
 **Backend & Infra**
-- FastAPI, Django  
-- Docker, Terraform  
-- AWS (EC2, S3, Redshift)  
+- FastAPI, Django, NestJS
+- Docker, Terraform
+- MongoDB / DocumentDB
 
 **Observability**
-- Prometheus, Grafana  
+- Prometheus, Grafana, OpenTelemetry
 
 ---
 
 ## 🎓 Background
 
-- **PhD Candidate in Engineering** — University of Malaya  
-- **MSc Software Engineering**  
-- **BSc Software Engineering**  
-- Certified IBM AI Engineer  
+- **PhD Candidate in Engineering** — University of Malaya
+- **MSc Software Engineering**
+- **BSc Software Engineering**
+- Certified IBM AI Engineer
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/taha-khamis  
+- LinkedIn: https://www.linkedin.com/in/taha-khamis
 - Email: tahakhamis1999@gmail.com
-```
